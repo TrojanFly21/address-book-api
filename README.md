@@ -24,7 +24,7 @@ A RESTful Address Book application built with FastAPI and SQLite.
 ## Installation
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/TrojanFly21/address-book-api.git
 
 cd address-book-api
 
